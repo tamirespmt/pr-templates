@@ -2,9 +2,15 @@
 
 ## Describe your changes
 
+## Screenshots
+
+| Screenshot 1 | Screenshot 2 |
+| ------------ | ------------ |
+| Place here   | Place here   |
+
 ## Checklist before requesting a review
 
-- [ ] I have performed a self-review of my code
+- [ ] I have performed a self-review of my code.
 - [ ] This PR does not contain commented code.
 - [ ] If it is a core feature, I have added thorough tests.
 - [ ] Do we need to implement analytics?
